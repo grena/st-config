@@ -1,0 +1,21 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"ChangeQuotes",
+		"DocBlockr",
+		"Emmet",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Markdown Preview",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-pep8",
+		"SublimeLinter-php",
+		"Table Editor",
+		"Text Pastry",
+		"Theme - Spacegray"
+	]
+}

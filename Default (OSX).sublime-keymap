@@ -1,0 +1,12 @@
+[
+	{ "keys": ["super+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["super+alt+down"], "command": "duplicate_line" },
+    { "keys": ["super+e"], "command": "find_under_expand" },
+	{ "keys": ["super+shift+h"], "command": "toggle_side_bar" },
+	{ "keys": ["shift+super+up"], "command": "swap_line_up" },
+	{ "keys": ["shift+super+down"], "command": "swap_line_down" },
+    { "keys": ["super+alt+a"], "command": "alignment" },
+    { "keys": ["super+alt+g"], "command": "find_all_under" },
+    { "keys": ["alt+space"], "command": "insert_snippet", "args": {"contents": " " } },
+    { "keys": ["alt+shift+w"], "command": "insert_snippet", "args": { "name": "Packages/XML/long-tag.sublime-snippet" } }
+]

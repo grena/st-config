@@ -1,0 +1,31 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"current": "2",
+					"padding": "1",
+					"step": "1"
+				},
+				"command": "insert_nums",
+				"text": "\\i(2,1)"
+			},
+			"key": "4371e5dc886922b6aed0b1f9812a2132",
+			"label": "\\i(2,1)"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"current": "2",
+			"padding": "1",
+			"step": "1"
+		},
+		"command": "insert_nums",
+		"text": "\\i(2,1)"
+	}
+}
