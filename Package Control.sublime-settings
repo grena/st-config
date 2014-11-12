@@ -1,7 +1,10 @@
 {
 	"installed_packages":
 	[
+		"Emmet",
 		"Markdown Preview",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
 		"SublimeLinter-pep8",
 		"Theme - Spacegray"
 	]
