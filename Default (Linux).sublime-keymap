@@ -2,4 +2,7 @@
     { "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
     { "keys": ["ctrl+alt+down"], "command": "duplicate_line" },
     { "keys": ["ctrl+e"], "command": "find_under_expand" },
+    { "keys": ["ctrl+shift+h"], "command": "toggle_side_bar" },
+    { "keys": ["ctrl+alt+a"], "command": "alignment" },
+    { "keys": ["ctrl+alt+g"], "command": "find_all_under" },
 ]
